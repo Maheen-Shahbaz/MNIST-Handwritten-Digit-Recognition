@@ -26,8 +26,7 @@ pip install pandas numpy matplotlib scikit-learn
 ## **Usage**
 
 1. Open the Jupyter Notebook:
-jupyter notebook mnist_digit_recognition.ipynb
-
+jupyter notebook Handwritten-Digit-Recognition.ipynb
 2. Run each cell **in order**:
 
    * Import libraries
