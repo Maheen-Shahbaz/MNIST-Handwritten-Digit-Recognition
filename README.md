@@ -15,10 +15,10 @@ This project uses the **MNIST dataset of handwritten digits** to train a machine
 ## **Installation**
 
 1. Clone this repository:
-git clone https://github.com/your-username/MNIST-Digit-Recognition.git
+https://github.com/Maheen-Shahbaz/MNIST-Handwritten-Digit-Recognition/tree/main
 cd MNIST-Digit-Recognition
 
-2. Install required packages:
+3. Install required packages:
 
 pip install pandas numpy matplotlib scikit-learn
 > No TensorFlow installation is required.
